@@ -1,10 +1,9 @@
 ## **db 접속 후 데이터 출력 & Blazor + Mssql 예제 실행 프로젝트 입니다**
 
 
-***
 
 
-*** Description***
+*** 1.Description***
 
 1. Java 혹은 C++로 db 접속하여 데이터 출력
 2. Blazor + Mssql 예제
