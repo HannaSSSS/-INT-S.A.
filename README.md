@@ -24,3 +24,9 @@ windows 입니다
 
 https://blazorhelpwebsite.com/ViewBlogPost/34
 를 참조하였습니다
+
+
+***Result***
+
+1번 프로젝의 결과입니다
+
