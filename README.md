@@ -3,7 +3,7 @@
 
 
 
-*** 1.Description***
+*** Description***
 
 1. Java 혹은 C++로 db 접속하여 데이터 출력
 2. Blazor + Mssql 예제
