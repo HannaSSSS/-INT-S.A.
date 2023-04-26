@@ -3,7 +3,7 @@
 ***
 
 
-*** Description***
+***1.Description***
 
 1. Java 혹은 C++로 db 접속하여 데이터 출력
 2. Blazor + Mssql 예제
@@ -13,14 +13,14 @@
 
 
 
-*** Environment***
+***2.Environment***
 
 windows 입니다
 
 
 
 
-*** External resource information***
+***3.External resource information***
 
 https://blazorhelpwebsite.com/ViewBlogPost/34
 를 참조하였습니다
